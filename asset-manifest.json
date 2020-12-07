@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-habit-practice/static/css/main.0b41f7da.chunk.css",
+    "main.js": "/react-habit-practice/static/js/main.d0f84535.chunk.js",
+    "main.js.map": "/react-habit-practice/static/js/main.d0f84535.chunk.js.map",
+    "runtime-main.js": "/react-habit-practice/static/js/runtime-main.f37ce1e5.js",
+    "runtime-main.js.map": "/react-habit-practice/static/js/runtime-main.f37ce1e5.js.map",
+    "static/js/2.b3ceaf47.chunk.js": "/react-habit-practice/static/js/2.b3ceaf47.chunk.js",
+    "static/js/2.b3ceaf47.chunk.js.map": "/react-habit-practice/static/js/2.b3ceaf47.chunk.js.map",
+    "index.html": "/react-habit-practice/index.html",
+    "static/css/main.0b41f7da.chunk.css.map": "/react-habit-practice/static/css/main.0b41f7da.chunk.css.map",
+    "static/js/2.b3ceaf47.chunk.js.LICENSE.txt": "/react-habit-practice/static/js/2.b3ceaf47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f37ce1e5.js",
+    "static/js/2.b3ceaf47.chunk.js",
+    "static/css/main.0b41f7da.chunk.css",
+    "static/js/main.d0f84535.chunk.js"
+  ]
+}
